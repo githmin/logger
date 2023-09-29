@@ -1,0 +1,25 @@
+{
+  "name": "@githmin/logninja",
+  "version": "0.1.0",
+  "description": "Super Simple Logger For NodeJS",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "nodemon",
+    "build": "tsc"
+  },
+  "keywords": [
+    "logmaster",
+    "logging",
+    "logs",
+    "log"
+  ],
+  "author": "Githmin Jayawardhana",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.7.1",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
